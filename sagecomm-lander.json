@@ -1,5 +1,5 @@
 {
 	"hero-header": "Welcome to the new world.",
 	"hero-intro": "This is a test of the new hotness that is Mavo",
-	"test-image": "https://cdn.rawgit.com/mwickett/mv-data/5425c62573b731457cfb2c2557291d9f4c941da0/images/Screen%20Shot%202017-11-27%20at%203.32.42%20PM.png"
+	"test-image": "https://cdn.jsdelivr.net/gh/mwickett/mv-data@5425c62573b731457cfb2c2557291d9f4c941da0/images/Screen%20Shot%202017-11-27%20at%203.32.42%20PM.png"
 }
